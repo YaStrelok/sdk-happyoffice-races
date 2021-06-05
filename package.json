@@ -1,0 +1,17 @@
+{
+  "name": "horace",
+  "version": "1.0.0",
+  "description": "Модуль для работы с API сервиса \"Гонки\"",
+  "main": "src/index.js",
+  "keywords": [
+    "happyoffice",
+    "races-api",
+    "horaces"
+  ],
+  "author": "Artem Generalov",
+  "license": "ISC",
+  "dependencies": {
+     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
