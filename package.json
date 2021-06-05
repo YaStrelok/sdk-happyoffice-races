@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Модуль для работы с API сервиса \"Гонки\"",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "url+https://github.com/YaStrelok/sdk-happyoffice-races.git"
+  },
   "keywords": [
     "happyoffice",
     "races-api",
