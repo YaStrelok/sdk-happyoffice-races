@@ -1,4 +1,4 @@
-class APIError extends Error {
+export default class APIError extends Error {
 
     /**
      * @param params - Параметры ошибки.
@@ -11,5 +11,3 @@ class APIError extends Error {
         Error.captureStackTrace(this, this.constructor);
     };
 };
-
-module.exports = { APIError };
