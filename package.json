@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "url+https://github.com/YaStrelok/sdk-happyoffice-races/"
+    "url": "url+https://github.com/YaStrelok/sdk-happyoffice-races.git"
   },
   "keywords": [
     "happyoffice",
