@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-import { APIError } from './errors'
+const { APIError } = require('./errors');
 
 class Horace {
     baseURL = 'https://race.danyarub.ru/api/';
