@@ -1,4 +1,4 @@
-export default class APIError extends Error {
+export class APIError extends Error {
 
     /**
      * @param params - Параметры ошибки.
