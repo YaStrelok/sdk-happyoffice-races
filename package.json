@@ -1,6 +1,6 @@
 {
   "name": "horace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Модуль для работы с API сервиса \"Гонки\"",
   "main": "index.js",
   "repository": {
