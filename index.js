@@ -130,5 +130,3 @@ export class Horace {
         this.onPaymentCallback = context;
     };
 }
-
-module.exports = { Horace };
